@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+.vsconfig
+Labirinto.exe
+Labirinto_Data/
+Library/
+Logs/
+MonoBleedingEdge/
+README.md
+Reinaldo_Saldanha_737039.unitypackage
+Temp/
+UnityCrashHandler32.exe
+UnityPlayer.dll
+obj/
